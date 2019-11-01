@@ -10,7 +10,7 @@
 (to avoid problems with consistency).
 - in case in processing failure they have used DLQ pattern (new queues - 4hours \ 16 hours \ manual DLQ)
 - as well they have described something about different data centers usage with kafka
-- somehting was about replicas
+- something was about replicas
 
 ### Other staff
 - they have ~20M users monthly. how many events do they have daily \ in a peak?
@@ -21,6 +21,8 @@
 - Tracing - no common approach
 - Availability - replicas of aggregate service for reads?
 - Reliability?
+- Event duplication? not needed?
+- Locking Strategy?
 
 ### How this talk influence to me (or to my teammates \ company)?
 - You can see that it is not very clear for me what they got. 
