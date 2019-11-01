@@ -1,2 +1,2 @@
 # Feedback
-Feedback about technologies, videos, articles, conferences
+My feedback about technologies, videos, articles, conferences
