@@ -31,12 +31,16 @@ Personally, it is nice to have it, but there are so many other useful things (bo
 
 ### Other staff
 - they have ~20M users monthly. how many events do they have daily \ in a peak?
-- Migrations?
-- Versioning - new kafka streams for new versions (without details, it was a answer to question)
+- Consistency - eventual
+- Data Migration?
+- Versioning - new kafka topics? for new versions (without details, it was a answer to question)
 - Backward compatibility (versioning) was resolved in application.
 - Tracing - no common approach
+- Availability - replicas of aggregate service for reads?
+- Reliability?
 
 ### How this talk influence to me (or to my teammates \ company)?
 - You can see that it is not very clear for me what they got. 
 - I believe it is required to redevelop their presentation and talk - start from the problem first and on each new step describe problem
-- Definitely, i would like to listen to their updated talk. Maybe i should find them and ask additional questions.
+- Definitely, i would like to listen to their updated talk. Maybe i should find speakers and ask additional questions.
+- In compare, here is great talk about another architecture - https://jokerconf.com/2019/talks/4wj9og0tij3wpxe3ourovr/ (in russian)
