@@ -8,5 +8,5 @@ My feedback about technologies, videos, articles, conferences
 * TBD - Speaker(s)
 
 ## Special tags
-* PersonalAI - personal action item - what should i follow or reimplement
+* PersonalAI - personal action item - what should i follow\what i achieve\what todo
 * TeamAI - team action item - what to share with a team
