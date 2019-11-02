@@ -1,7 +1,7 @@
-# Feedback
-My feedback about technologies, videos, articles, conferences
+# Notes
+My notes about technologies, videos, articles, conferences
 
-## Feedback Structure
+## Notes Structure
 * Title
 * What it was about?
 * How this talk influence to me (or to my teammates \ company)?
