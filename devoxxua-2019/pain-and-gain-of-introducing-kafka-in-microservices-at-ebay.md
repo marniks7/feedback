@@ -12,7 +12,7 @@
 - as well they have described something about different data centers usage with kafka
 - something was about replicas
 
-### Other staff
+### Other
 - they have ~20M users monthly. how many events do they have daily \ in a peak?
 - Consistency - eventual
 - Data Migration?

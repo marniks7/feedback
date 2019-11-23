@@ -38,9 +38,7 @@ TeamAI: Motivate other teams to share more details in open specification
 
 - api first principle - yes, very nice one. 
 On the moment i ask in review to show request \ response and all the details. But it is not yet 'api first principle'.
-PersonalAI: use 'api first principle' as a practice. I have decided that i can develop RestController first, add endpoint \ request \ response in confluence ticket.
-TeamAI: Share API First Principle with other teams and follow it as a practice, not sometimes.
- 
+
  - event source protocol in browser - read about it or keep in mind when it will be required to implement frontend
  
  - brotli - ok, maybe later i will check
@@ -54,4 +52,7 @@ TeamAI: Share API First Principle with other teams and follow it as a practice, 
  
  - dredd - TBD
  
+ `PersonalActionItem`: use 'api first principle' as a practice.
  
+ `TeamActionItem`: Share API First Principle with other teams and follow it as a practice, not sometimes.
+  
