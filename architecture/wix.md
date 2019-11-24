@@ -24,8 +24,7 @@
 * Resilient Producer
 * Context Propagation (headers with information about user)
 * Metrics publishing
-### Cases
-* Long running async business process
+* Plus UI for manual processing
 
 ## Where?
 Devoxx Ukraine 2019: [How to build 1000 microservices with Kafka and thrive](../devoxxua-2019/how-to-build-1000-microservices-with-Kafka-and-thrive.md)
