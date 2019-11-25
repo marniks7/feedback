@@ -1,9 +1,14 @@
 # eBay
 ## Load
-
+![eBay load](eBay-load.png)
+![eBay load messages](eBay-load-messages.png)
 ## Architecture
-
+![eBay architecture](eBay-architecture-enrichments.png)
+![eBay architecture](eBay-architecture-DC.png)
+![eBay architecture](eBay-architecture-kafka-pain-and-gain.png)
 ## Technologies
+* Kafka
+* Kafka Streams
 
 ## Other
 
